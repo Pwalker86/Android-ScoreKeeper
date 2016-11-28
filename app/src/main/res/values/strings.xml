@@ -8,4 +8,5 @@
     <string name="field_goal_button_text">Field goal</string>
     <string name="extra_point_button_text">Extra Point</string>
     <string name="_2pt_button_text">2pt Conversion</string>
+    <string name="reset_button_text">Reset</string>
 </resources>
