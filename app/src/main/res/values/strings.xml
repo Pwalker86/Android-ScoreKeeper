@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Monday Night Football</string>
+    <string name="team_a_score">0</string>
+    <string name="team_b_score">0</string>
+    <string name="team_a_name">Team A</string>
+    <string name="team_b_name">Team B</string>
+    <string name="touchdown_button_text">Touchdown!</string>
+    <string name="field_goal_button_text">Field goal</string>
+    <string name="extra_point_button_text">Extra Point</string>
+    <string name="_2pt_button_text">2pt Conversion</string>
+</resources>
